@@ -40,20 +40,23 @@ Site institucional para apresentar os setores, valores e atividades da cooperati
 
 ## Tecnologias que uso e estudo
 
-| Área | Tecnologias |
-| --- | --- |
-| Web | HTML, CSS, JavaScript, React e TypeScript |
-| Programação e dados | Python, Java e MySQL |
-| Ferramentas | Git, GitHub e VS Code |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,python,java,mysql,git,github,vscode&perline=7" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind CSS, Python, Java, MySQL, Git, GitHub e VS Code">
+
+</div>
 
 ## Idiomas
 
 - **Português:** nativo
 - **Inglês:** intermediário
 
-## Estatísticas e contato
+## GitHub Stats
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=arthurmartinss&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas de Arthur no GitHub" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmartinss&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas por Arthur" height="165">
 
 <img src="https://streak-stats.demolab.com?user=arthurmartinss&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de Arthur no GitHub" width="100%">
 
