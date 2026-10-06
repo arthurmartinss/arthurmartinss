@@ -45,3 +45,22 @@ Site institucional para apresentar os setores, valores e atividades da cooperati
 | Web | HTML, CSS, JavaScript, React e TypeScript |
 | Programação e dados | Python, Java e MySQL |
 | Ferramentas | Git, GitHub e VS Code |
+
+## Idiomas
+
+- **Português:** nativo
+- **Inglês:** intermediário
+
+## Estatísticas e contato
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=arthurmartinss&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de Arthur no GitHub" width="100%">
+
+<br>
+
+<a href="https://www.linkedin.com/in/arthur-martinss/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:arthurmartinsh6@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+<a href="https://www.instagram.com/arthurcbb_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+
+</div>
