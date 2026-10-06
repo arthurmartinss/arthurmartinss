@@ -6,37 +6,69 @@
 
 <h1>Arthur Martins</h1>
 
-<p><strong>Systems Analysis and Development student at FIAP</strong><br>São Paulo, Brazil</p>
+<p><strong>Software Development Student | React · TypeScript · Java · Python</strong><br>São Paulo, Brazil</p>
 
-<p>I build web projects and have a strong interest in data, artificial intelligence, and product thinking.</p>
+<p>I build web applications and aim to turn real problems into clear, accessible, and well-structured solutions.</p>
 
-<p><a href="https://www.linkedin.com/in/arthur-martinss/">LinkedIn</a> · <a href="mailto:arthurmartinsh6@gmail.com">Email</a></p>
+<p>
+  <a href="https://www.linkedin.com/in/arthur-martinss/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:arthurmartinsh6@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 </div>
 
 ## About me
 
-I study Systems Analysis and Development at FIAP. In my projects, I try to understand the problem before writing the solution: who it is for, how people will use it, and which technical choices make sense.
+I am a Systems Analysis and Development student at FIAP. Before I start building, I like to understand the problem, the people who will use the solution, and the technical decisions involved.
 
-I have worked on web interfaces while studying programming, relational databases, and artificial intelligence. My English is intermediate.
+My academic experience includes web interfaces, relational databases, software quality, and artificial intelligence. I improve through practical projects, teamwork, and clear documentation.
 
-## Selected projects
+## Currently
+
+- Building applications with **React, TypeScript, and Vite**.
+- Studying **Java, Python, databases, and artificial intelligence**.
+- Open to **software development internship opportunities** and collaborative projects.
+
+## Featured projects
 
 ### [Soulie — a digital experience for SoulUp](https://github.com/arthurmartinss/soulie-sprint3)
 
-An academic team project that uses an interactive avatar to support a sustainability journey. Sprint 03 was built as a single-page application with React and TypeScript.
+`Academic team project` `Front-end` `Live application`
 
-**My contribution:** I implemented the dynamic team-member route, improved the responsive menu, and added click-based selection of Soulie's states. I also refined the interface and documentation.
+**Challenge:** create an interactive experience that supports a sustainability journey through an avatar.
 
-**Technologies:** React, TypeScript, Vite, and Tailwind CSS · [Live app](https://soulie-sprint3.vercel.app/)
+**Solution:** a responsive single-page application built with React and TypeScript.
+
+**My contribution:** I implemented the dynamic team-member route, improved the responsive menu, added click-based selection of Soulie's states, and refined the interface and documentation.
+
+**Technologies:** React, TypeScript, Vite, and Tailwind CSS  
+[Repository](https://github.com/arthurmartinss/soulie-sprint3) · [Live application](https://soulie-sprint3.vercel.app/)
 
 ### [Cooperativa Cultural Social](https://github.com/arthurmartinss/cooperativa-cultural-social)
 
-An institutional website presenting the cooperative's departments, values, and activities. The project is in its first development stage.
+`Academic project` `Front-end` `In development`
 
-**My contribution:** I set up the initial structure, routes, pages, and shared components.
+**Challenge:** clearly present the departments, values, and activities of a cultural cooperative.
 
-**Technologies:** React, TypeScript, and Vite · [Live site](https://cooperativa-cultural-social.vercel.app/)
+**Solution:** a responsive institutional website with route-based pages and reusable components.
+
+**My contribution:** I organized the initial structure, routes, pages, and shared components.
+
+**Technologies:** React, TypeScript, and Vite  
+[Repository](https://github.com/arthurmartinss/cooperativa-cultural-social) · [Live site](https://cooperativa-cultural-social.vercel.app/)
+
+### [Acesso+ — Accessible Places Portal](https://github.com/1TDSPO-26/portal-locais-acessiveis)
+
+`Academic team project` `QA and accessibility` `In development`
+
+**Challenge:** catalog and present places with accessibility resources for people with disabilities or reduced mobility.
+
+**Solution:** a responsive web platform for registering, listing, and viewing places, built with attention to digital accessibility.
+
+**My contribution:** I planned and executed a QA cycle for registration, editing, and error messages. I validated responsiveness, keyboard navigation, focus, and accessibility, and documented scenarios, evidence, limitations, and defects.
+
+**Technologies:** React, TypeScript, Vite, and Tailwind CSS  
+[Repository](https://github.com/1TDSPO-26/portal-locais-acessiveis) · [View my contribution](https://github.com/1TDSPO-26/portal-locais-acessiveis/pull/97)
 
 ## Technologies I use and study
 
@@ -58,12 +90,13 @@ An institutional website presenting the cooperative's departments, values, and a
 <img src="https://github-readme-stats.vercel.app/api?username=arthurmartinss&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Arthur's GitHub statistics" height="165">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmartinss&layout=compact&theme=tokyonight&hide_border=true" alt="Arthur's most used languages" height="165">
 
-<img src="https://streak-stats.demolab.com?user=arthurmartinss&theme=tokyonight&hide_border=true&locale=en" alt="Arthur's GitHub contribution streak" width="100%">
-
-<br>
-
-<a href="https://www.linkedin.com/in/arthur-martinss/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:arthurmartinsh6@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.instagram.com/arthurcbb_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-
 </div>
+
+## Let's connect
+
+I am interested in internship opportunities, collaborative projects, and conversations about software development, product, data, and artificial intelligence.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arthur-martinss/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:arthurmartinsh6@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
