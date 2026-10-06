@@ -45,3 +45,22 @@ An institutional website presenting the cooperative's departments, values, and a
 | Web | HTML, CSS, JavaScript, React, and TypeScript |
 | Programming and data | Python, Java, and MySQL |
 | Tools | Git, GitHub, and VS Code |
+
+## Languages
+
+- **Portuguese:** native
+- **English:** intermediate
+
+## Statistics and contact
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=arthurmartinss&theme=tokyonight&hide_border=true&locale=en" alt="Arthur's GitHub contribution streak" width="100%">
+
+<br>
+
+<a href="https://www.linkedin.com/in/arthur-martinss/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:arthurmartinsh6@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.instagram.com/arthurcbb_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+
+</div>
