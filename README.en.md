@@ -40,20 +40,23 @@ An institutional website presenting the cooperative's departments, values, and a
 
 ## Technologies I use and study
 
-| Area | Technologies |
-| --- | --- |
-| Web | HTML, CSS, JavaScript, React, and TypeScript |
-| Programming and data | Python, Java, and MySQL |
-| Tools | Git, GitHub, and VS Code |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,python,java,mysql,git,github,vscode&perline=7" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind CSS, Python, Java, MySQL, Git, GitHub, and VS Code">
+
+</div>
 
 ## Languages
 
 - **Portuguese:** native
 - **English:** intermediate
 
-## Statistics and contact
+## GitHub Stats
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=arthurmartinss&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Arthur's GitHub statistics" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmartinss&layout=compact&theme=tokyonight&hide_border=true" alt="Arthur's most used languages" height="165">
 
 <img src="https://streak-stats.demolab.com?user=arthurmartinss&theme=tokyonight&hide_border=true&locale=en" alt="Arthur's GitHub contribution streak" width="100%">
 
