@@ -1,71 +1,47 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:312e81,100:3730a3&height=220&section=header&text=Arthur%20Carvalho%20Brito%20Martins&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas%20%E2%80%94%20FIAP&descAlignY=58&descSize=16&fontColor=e0e0ff" alt="Arthur Carvalho Brito Martins" width="100%"/>
-</div>
 
----
+<p><strong>Idioma / Language</strong> · <strong>🇧🇷 Português</strong> · <a href="./README.en.md">🇬🇧 English</a></p>
 
-### Hey, I'm Arthur
+<img src="./gojo-profile.gif" alt="Ilustração animada de Satoru Gojo em tons de azul" width="100%">
 
-I'm a Systems Analysis and Development student at FIAP, working across the stack covered by my coursework: relational databases, Python, Java with Domain-Driven Design, AI & chatbots, and front-end engineering.
+<h1>Arthur Martins</h1>
 
-I'm particularly interested in databases, AI, and the business side of software — understanding not just how to build something, but why it's built that way.
+<p><strong>Estudante de Análise e Desenvolvimento de Sistemas na FIAP</strong><br>São Paulo, Brasil</p>
 
-Intermediate English.
+<p>Desenvolvo projetos web com interesse em dados, inteligência artificial e produto.</p>
 
----
-
-### Stack
-
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" width="200px">
-      <br/>
-      <strong>Web</strong>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=html,css,js" />
-      <br/><br/>
-    </td>
-    <td width="1px" style="background:#30363d"></td>
-    <td align="center" width="200px">
-      <br/>
-      <strong>Linguagens</strong>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=python,java" />
-      <br/><br/>
-    </td>
-    <td width="1px" style="background:#30363d"></td>
-    <td align="center" width="200px">
-      <br/>
-      <strong>Database</strong>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=mysql" />
-      <br/><br/>
-    </td>
-    <td width="1px" style="background:#30363d"></td>
-    <td align="center" width="200px">
-      <br/>
-      <strong>Tools</strong>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-      <br/><br/>
-    </td>
-  </tr>
-</table>
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=arthurmartinss&theme=tokyonight&hide_border=true&locale=pt_BR" />
-</div>
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-martinss/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurmartinsh6@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurcbb_/)
+<p><a href="https://www.linkedin.com/in/arthur-martinss/">LinkedIn</a> · <a href="mailto:arthurmartinsh6@gmail.com">E-mail</a></p>
 
 </div>
+
+## Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP. Nos meus projetos, procuro entender o problema antes de escrever a solução: para quem ela existe, como será usada e quais escolhas técnicas fazem sentido.
+
+Tenho trabalhado com interfaces web e estudado programação, bancos de dados relacionais e inteligência artificial. Meu inglês é intermediário.
+
+## Projetos selecionados
+
+### [Soulie — experiência digital para a SoulUp](https://github.com/arthurmartinss/soulie-sprint3)
+
+Projeto acadêmico em equipe que usa um avatar interativo para acompanhar uma jornada de sustentabilidade. A Sprint 03 foi desenvolvida como aplicação de página única em React e TypeScript.
+
+**Minha contribuição:** implementei a rota dinâmica dos integrantes, melhorei o menu responsivo e adicionei a seleção dos estados da Soulie por clique. Também fiz ajustes de interface e documentação.
+
+**Tecnologias:** React, TypeScript, Vite e Tailwind CSS · [Ver aplicação](https://soulie-sprint3.vercel.app/)
+
+### [Cooperativa Cultural Social](https://github.com/arthurmartinss/cooperativa-cultural-social)
+
+Site institucional para apresentar os setores, valores e atividades da cooperativa. O projeto está na primeira etapa de desenvolvimento.
+
+**Minha contribuição:** organizei a estrutura inicial, as rotas, as páginas e componentes compartilhados.
+
+**Tecnologias:** React, TypeScript e Vite · [Ver site](https://cooperativa-cultural-social.vercel.app/)
+
+## Tecnologias que uso e estudo
+
+| Área | Tecnologias |
+| --- | --- |
+| Web | HTML, CSS, JavaScript, React e TypeScript |
+| Programação e dados | Python, Java e MySQL |
+| Ferramentas | Git, GitHub e VS Code |
