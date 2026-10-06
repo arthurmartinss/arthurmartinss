@@ -6,37 +6,69 @@
 
 <h1>Arthur Martins</h1>
 
-<p><strong>Estudante de Análise e Desenvolvimento de Sistemas na FIAP</strong><br>São Paulo, Brasil</p>
+<p><strong>Estudante de Desenvolvimento de Software | React · TypeScript · Java · Python</strong><br>São Paulo, Brasil</p>
 
-<p>Desenvolvo projetos web com interesse em dados, inteligência artificial e produto.</p>
+<p>Construo aplicações web e busco transformar problemas reais em soluções claras, acessíveis e bem estruturadas.</p>
 
-<p><a href="https://www.linkedin.com/in/arthur-martinss/">LinkedIn</a> · <a href="mailto:arthurmartinsh6@gmail.com">E-mail</a></p>
+<p>
+  <a href="https://www.linkedin.com/in/arthur-martinss/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:arthurmartinsh6@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"></a>
+</p>
 
 </div>
 
 ## Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP. Nos meus projetos, procuro entender o problema antes de escrever a solução: para quem ela existe, como será usada e quais escolhas técnicas fazem sentido.
+Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP. Gosto de entender o problema, as pessoas que usarão a solução e as decisões técnicas envolvidas antes de começar a desenvolver.
 
-Tenho trabalhado com interfaces web e estudado programação, bancos de dados relacionais e inteligência artificial. Meu inglês é intermediário.
+Tenho experiência acadêmica com interfaces web, bancos de dados relacionais, qualidade de software e inteligência artificial. Busco evoluir por meio de projetos práticos, trabalho em equipe e documentação clara.
 
-## Projetos selecionados
+## Atualmente
+
+- Desenvolvendo aplicações com **React, TypeScript e Vite**.
+- Estudando **Java, Python, bancos de dados e inteligência artificial**.
+- Aberto a **oportunidades de estágio em desenvolvimento de software** e projetos colaborativos.
+
+## Projetos em destaque
 
 ### [Soulie — experiência digital para a SoulUp](https://github.com/arthurmartinss/soulie-sprint3)
 
-Projeto acadêmico em equipe que usa um avatar interativo para acompanhar uma jornada de sustentabilidade. A Sprint 03 foi desenvolvida como aplicação de página única em React e TypeScript.
+`Projeto acadêmico em equipe` `Front-end` `Aplicação publicada`
 
-**Minha contribuição:** implementei a rota dinâmica dos integrantes, melhorei o menu responsivo e adicionei a seleção dos estados da Soulie por clique. Também fiz ajustes de interface e documentação.
+**Desafio:** criar uma experiência interativa que acompanhe uma jornada de sustentabilidade por meio de um avatar.
 
-**Tecnologias:** React, TypeScript, Vite e Tailwind CSS · [Ver aplicação](https://soulie-sprint3.vercel.app/)
+**Solução:** aplicação de página única responsiva desenvolvida com React e TypeScript.
+
+**Minha contribuição:** implementei a rota dinâmica dos integrantes, melhorei o menu responsivo, adicionei a seleção dos estados da Soulie por clique e fiz ajustes de interface e documentação.
+
+**Tecnologias:** React, TypeScript, Vite e Tailwind CSS  
+[Repositório](https://github.com/arthurmartinss/soulie-sprint3) · [Ver aplicação](https://soulie-sprint3.vercel.app/)
 
 ### [Cooperativa Cultural Social](https://github.com/arthurmartinss/cooperativa-cultural-social)
 
-Site institucional para apresentar os setores, valores e atividades da cooperativa. O projeto está na primeira etapa de desenvolvimento.
+`Projeto acadêmico` `Front-end` `Em desenvolvimento`
 
-**Minha contribuição:** organizei a estrutura inicial, as rotas, as páginas e componentes compartilhados.
+**Desafio:** apresentar de forma clara os setores, valores e atividades de uma cooperativa cultural.
 
-**Tecnologias:** React, TypeScript e Vite · [Ver site](https://cooperativa-cultural-social.vercel.app/)
+**Solução:** site institucional responsivo com páginas organizadas por rotas e componentes reutilizáveis.
+
+**Minha contribuição:** organizei a estrutura inicial, as rotas, as páginas e os componentes compartilhados do projeto.
+
+**Tecnologias:** React, TypeScript e Vite  
+[Repositório](https://github.com/arthurmartinss/cooperativa-cultural-social) · [Ver site](https://cooperativa-cultural-social.vercel.app/)
+
+### [Acesso+ — Portal de Locais Acessíveis](https://github.com/1TDSPO-26/portal-locais-acessiveis)
+
+`Projeto acadêmico em equipe` `QA e acessibilidade` `Em desenvolvimento`
+
+**Desafio:** catalogar e apresentar locais com recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida.
+
+**Solução:** plataforma web responsiva com cadastro, listagem e detalhes de locais, construída com atenção à acessibilidade digital.
+
+**Minha contribuição:** planejei e executei um ciclo de QA para cadastro, edição e mensagens de erro. Validei responsividade, navegação por teclado, foco e acessibilidade, além de documentar cenários, evidências, limitações e defeitos encontrados.
+
+**Tecnologias:** React, TypeScript, Vite e Tailwind CSS  
+[Repositório](https://github.com/1TDSPO-26/portal-locais-acessiveis) · [Ver minha contribuição](https://github.com/1TDSPO-26/portal-locais-acessiveis/pull/97)
 
 ## Tecnologias que uso e estudo
 
@@ -58,12 +90,13 @@ Site institucional para apresentar os setores, valores e atividades da cooperati
 <img src="https://github-readme-stats.vercel.app/api?username=arthurmartinss&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas de Arthur no GitHub" height="165">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmartinss&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas por Arthur" height="165">
 
-<img src="https://streak-stats.demolab.com?user=arthurmartinss&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de Arthur no GitHub" width="100%">
-
-<br>
-
-<a href="https://www.linkedin.com/in/arthur-martinss/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:arthurmartinsh6@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
-<a href="https://www.instagram.com/arthurcbb_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-
 </div>
+
+## Vamos conversar
+
+Tenho interesse em oportunidades de estágio, projetos colaborativos e conversas sobre desenvolvimento de software, produto, dados e inteligência artificial.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arthur-martinss/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:arthurmartinsh6@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+</p>
