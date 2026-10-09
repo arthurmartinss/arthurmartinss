@@ -34,12 +34,12 @@ Tenho experiência acadêmica com interfaces web, bancos de dados relacionais, q
 ### [Soulie — experiência digital para a SoulUp](https://github.com/arthurmartinss/soulie-sprint3)
 
 <p align="center">
-  <a href="https://soulie-sprint3.vercel.app/"><img src="./assets/projects/soulie.jpg" alt="Prévia da página inicial da Soulie, com o avatar e a proposta de sustentabilidade" width="76%"></a>
+  <a href="https://soulie-sprint3.vercel.app/"><img src="./assets/projects/soulie.jpg" alt="Prévia da página inicial da Soulie, com o avatar e a proposta de sustentabilidade" width="64%"></a>
 </p>
 
 `Projeto acadêmico em equipe` `React · TypeScript · Tailwind CSS`
 
-Experiência interativa para incentivar hábitos sustentáveis. **Minha contribuição:** rota dos integrantes, menu responsivo e seleção dos estados da Soulie por clique.
+Aplicação interativa que incentiva hábitos sustentáveis. **Minha contribuição:** implementei a rota dos integrantes, o menu responsivo e a seleção dos estados da Soulie por clique.
 
 <p align="center">
   <a href="https://soulie-sprint3.vercel.app/"><img src="https://img.shields.io/badge/Ver_aplicação-7C3AED?style=flat-square" alt="Abrir aplicação Soulie"></a>
@@ -49,12 +49,12 @@ Experiência interativa para incentivar hábitos sustentáveis. **Minha contribu
 ### [Cooperativa Cultural Social](https://github.com/arthurmartinss/cooperativa-cultural-social)
 
 <p align="center">
-  <a href="https://cooperativa-cultural-social.vercel.app/"><img src="./assets/projects/cooperativa-cultural-social.jpg" alt="Prévia da página inicial da Cooperativa Cultural Social" width="76%"></a>
+  <a href="https://cooperativa-cultural-social.vercel.app/"><img src="./assets/projects/cooperativa-cultural-social.jpg" alt="Prévia da página inicial da Cooperativa Cultural Social" width="64%"></a>
 </p>
 
 `Projeto acadêmico` `React · TypeScript` `Site publicado`
 
-Site institucional para apresentar setores, valores e atividades da cooperativa. **Minha contribuição:** estrutura inicial, rotas, páginas e componentes compartilhados. Conteúdo em evolução.
+Site institucional que apresenta os setores, valores e atividades da cooperativa. **Minha contribuição:** organizei a estrutura inicial, as rotas, as páginas e os componentes compartilhados. O conteúdo segue em evolução.
 
 <p align="center">
   <a href="https://cooperativa-cultural-social.vercel.app/"><img src="https://img.shields.io/badge/Ver_site-006B5E?style=flat-square" alt="Abrir site da Cooperativa Cultural Social"></a>
@@ -65,7 +65,7 @@ Site institucional para apresentar setores, valores e atividades da cooperativa.
 
 `Projeto acadêmico em equipe` `QA e acessibilidade`
 
-Portal de locais acessíveis em desenvolvimento. **Minha contribuição:** testes de cadastro, edição, mensagens de erro, responsividade e navegação por teclado, com [cenários e evidências documentados](https://github.com/1TDSPO-26/portal-locais-acessiveis/pull/97).
+Portal de locais acessíveis em desenvolvimento. **Minha contribuição:** executei testes de cadastro, edição, mensagens de erro, responsividade e navegação por teclado, com [cenários e evidências documentados](https://github.com/1TDSPO-26/portal-locais-acessiveis/pull/97).
 
 ## Tecnologias que uso e estudo
 
@@ -85,7 +85,7 @@ Portal de locais acessíveis em desenvolvimento. **Minha contribuição:** teste
 - **Português:** nativo
 - **Inglês:** intermediário
 
-## GitHub Stats
+## Estatísticas no GitHub
 
 <div align="center">
 
