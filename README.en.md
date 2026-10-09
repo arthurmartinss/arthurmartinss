@@ -33,50 +33,52 @@ My academic experience includes web interfaces, relational databases, software q
 
 ### [Soulie — a digital experience for SoulUp](https://github.com/arthurmartinss/soulie-sprint3)
 
-`Academic team project` `Front-end` `Live application`
+<p align="center">
+  <a href="https://soulie-sprint3.vercel.app/"><img src="./assets/projects/soulie.jpg" alt="Preview of Soulie's homepage, showing its mascot and sustainability concept" width="76%"></a>
+</p>
 
-**Challenge:** create an interactive experience that supports a sustainability journey through an avatar.
+`Academic team project` `React · TypeScript · Tailwind CSS`
 
-**Solution:** a responsive single-page application built with React and TypeScript.
+An interactive experience that encourages sustainable habits. **My contribution:** the team-member route, responsive menu, and click-based selection of Soulie's states.
 
-**My contribution:** I implemented the dynamic team-member route, improved the responsive menu, added click-based selection of Soulie's states, and refined the interface and documentation.
-
-**Technologies:** React, TypeScript, Vite, and Tailwind CSS  
-[Repository](https://github.com/arthurmartinss/soulie-sprint3) · [Live application](https://soulie-sprint3.vercel.app/)
+<p align="center">
+  <a href="https://soulie-sprint3.vercel.app/"><img src="https://img.shields.io/badge/Live_application-7C3AED?style=flat-square" alt="Open the Soulie application"></a>
+  <a href="https://github.com/arthurmartinss/soulie-sprint3"><img src="https://img.shields.io/badge/Source_code-24292F?style=flat-square&logo=github&logoColor=white" alt="View Soulie's source code"></a>
+</p>
 
 ### [Cooperativa Cultural Social](https://github.com/arthurmartinss/cooperativa-cultural-social)
 
-`Academic project` `Front-end` `In development`
+<p align="center">
+  <a href="https://cooperativa-cultural-social.vercel.app/"><img src="./assets/projects/cooperativa-cultural-social.jpg" alt="Preview of the Cooperativa Cultural Social homepage" width="76%"></a>
+</p>
 
-**Challenge:** clearly present the departments, values, and activities of a cultural cooperative.
+`Academic project` `React · TypeScript` `Live site`
 
-**Solution:** a responsive institutional website with route-based pages and reusable components.
+A website presenting the cooperative's departments, values, and activities. **My contribution:** the initial structure, routes, pages, and shared components. Content is still evolving.
 
-**My contribution:** I organized the initial structure, routes, pages, and shared components.
-
-**Technologies:** React, TypeScript, and Vite  
-[Repository](https://github.com/arthurmartinss/cooperativa-cultural-social) · [Live site](https://cooperativa-cultural-social.vercel.app/)
+<p align="center">
+  <a href="https://cooperativa-cultural-social.vercel.app/"><img src="https://img.shields.io/badge/Live_site-006B5E?style=flat-square" alt="Open the Cooperativa Cultural Social site"></a>
+  <a href="https://github.com/arthurmartinss/cooperativa-cultural-social"><img src="https://img.shields.io/badge/Source_code-24292F?style=flat-square&logo=github&logoColor=white" alt="View the Cooperativa Cultural Social source code"></a>
+</p>
 
 ### [Acesso+ — Accessible Places Portal](https://github.com/1TDSPO-26/portal-locais-acessiveis)
 
-`Academic team project` `QA and accessibility` `In development`
+`Academic team project` `QA and accessibility`
 
-**Challenge:** catalog and present places with accessibility resources for people with disabilities or reduced mobility.
-
-**Solution:** a responsive web platform for registering, listing, and viewing places, built with attention to digital accessibility.
-
-**My contribution:** I planned and executed a QA cycle for registration, editing, and error messages. I validated responsiveness, keyboard navigation, focus, and accessibility, and documented scenarios, evidence, limitations, and defects.
-
-**Technologies:** React, TypeScript, Vite, and Tailwind CSS  
-[Repository](https://github.com/1TDSPO-26/portal-locais-acessiveis) · [View my contribution](https://github.com/1TDSPO-26/portal-locais-acessiveis/pull/97)
+An accessible places portal in development. **My contribution:** testing registration, editing, error messages, responsiveness, and keyboard navigation, with [documented scenarios and evidence](https://github.com/1TDSPO-26/portal-locais-acessiveis/pull/97).
 
 ## Technologies I use and study
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,python,java,mysql,git,github,vscode&perline=7" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind CSS, Python, Java, MySQL, Git, GitHub, and VS Code">
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%"><strong>Front-end</strong><br><br><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&perline=3" alt="HTML, CSS, JavaScript, TypeScript, React, and Tailwind CSS" width="180"></td>
+    <td align="center" width="50%"><strong>Languages in progress</strong><br><br><img src="https://skillicons.dev/icons?i=java,python" alt="Java and Python" width="100"></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><strong>Database</strong><br><br><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50"></td>
+    <td align="center" width="50%"><strong>Tools</strong><br><br><img src="https://skillicons.dev/icons?i=git,github,vscode,vite" alt="Git, GitHub, VS Code, and Vite" width="200"></td>
+  </tr>
+</table>
 
 ## Languages
 
