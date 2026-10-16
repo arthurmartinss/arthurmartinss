@@ -2,7 +2,7 @@
 
 <p><strong>Language / Idioma</strong> · <a href="./README.md">🇧🇷 Português</a> · <strong>🇬🇧 English</strong></p>
 
-<img src="./gojo-profile.gif" alt="Animated illustration of Satoru Gojo in blue tones" width="100%">
+<img src="./assets/projects/naruto_banner_crop_30fps.webp" alt="Animated illustration of Satoru Gojo in blue tones" width="100%">
 
 <h1>Arthur Martins</h1>
 
